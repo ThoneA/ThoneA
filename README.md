@@ -1,4 +1,11 @@
-## Hi there 👋
+## Hi there, I'm Thone Anlaug Stordal Støa!👋
+Computer technology student at Universitetet i Bergen.
+
+Connect with me😄:
+
+https://www.linkedin.com/in/thone-anlaug-stordal-st%C3%B8a/
+
+
 
 <!--
 **ThoneA/ThoneA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
