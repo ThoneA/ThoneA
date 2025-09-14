@@ -1,5 +1,5 @@
 ## Hi there, I'm Thone Anlaug Stordal Støa!👋
-Computer technology student at Universitetet i Bergen.
+Software Engineering student at the Universitetet of Bergen.
 
 Connect with me😄:
 
